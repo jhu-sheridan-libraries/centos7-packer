@@ -1,0 +1,9 @@
+{
+  "variables": {
+  },
+  "builders": [
+    {
+      "type": "vsphere-iso",
+      
+    }
+  ]
